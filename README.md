@@ -22,7 +22,7 @@ The purpose of this repository is to showcase independent medical writing comple
 These documents translate Phase III clinical trial data into clear summaries designed to be accessible to the general population i.e. patients, adhering to **EU CTR Annex V** standards.
 
 * **[PLS-01] Rituximab in Refractory Rheumatoid Arthritis**
-  * **File:** `plain-language-summaries/PLS_01_Rituximab_REFLEX_Trial.md`
+  * **File:** [View Summary](plain-language-summaries/PLS-01-Rituximab-REFLEX-Trial.md) 
   * **Source Trial:** REFLEX Trial (Phase III, PMID: 16947627)
   * **Therapeutic Area:** Rheumatology + Immunology
 

@@ -29,7 +29,7 @@ These documents translate Phase III clinical trial data into clear summaries des
 * **[PLS-02] Guselkumab in Moderate-to-Severe Plaque Psoriasis**
   * **File:** [View Summary](plain-language-summaries/PLS-02-Guselkumab-GUIDE-Trial.md)
   * **Source Trial:** GUIDE Study (Phase IIIb, PMID: 37262309)
-  * **Therapeutic Area:** Dermatology / Immunology
+  * **Therapeutic Area:** Dermatology + Immunology
 
 ### 2. Comparative SmPC Audits
 These regulatory analyses evaluate differences in official product information using the UK **electronic Medicines Compendium (emc)** database.

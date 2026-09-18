@@ -34,9 +34,9 @@ These documents translate Phase III clinical trial data into clear summaries des
 ### 2. Comparative SmPC Audits
 These regulatory analyses evaluate differences in official product information using the UK **electronic Medicines Compendium (emc)** database.
 
-* **[Audit-01] Second-Generation Antihistamines (In Progress)**
-  * **File:** `comparative-smpc-audits/Audit_01_Cetirizine_vs_Loratadine.md`
-  * **Focus:** Comparison of Section 4.1 (Indications) and Section 4.7 (Effects on ability to drive and use machines).
+* **[Audit-01] Second-Generation Antihistamines**
+  * **File:** [View Summary](comparative-smpc-audits/Audit_01_Cetirizine_vs_Loratadine) 
+  * **Focus:** Comparison of Section 4.1 (Indications) and Section 4.7 (Effects on Ability to Drive and use Machines).
 
 * **[Audit-02] Biologic Monoclonal Antibodies (Planned)**
   * **File:** `comparative-smpc-audits/Audit_02_Biologics_Comparison.md`

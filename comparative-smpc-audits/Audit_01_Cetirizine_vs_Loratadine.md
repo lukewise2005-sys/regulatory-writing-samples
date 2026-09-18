@@ -1,8 +1,11 @@
 # Comparative SmPC Audit Sample #1
 
 **Target Therapeutics:** Allergy - Cetirizine + Loratadine
+
 **Database Source:** UK electronic Medicines Compendium (emc)  
+
 **Regulatory Authority:** UK MHRA + EMA Standards  
+
 **Focus Sections:** Section 4.1 (Therapeutic Indications) & Section 4.7 (Effects on Ability to Drive and Use Machines)
 
 ---
@@ -46,5 +49,5 @@ This regulatory audit evaluates the comparative labelling differences between Ce
 ---
 
 ## Clinical & Regulatory Implications
-1. **Prescribing Medication:** Pharmacists advising drivers or machine operators might prefer Loratadine based on Section 4.7 labelling.
-2. **Label Claim Specificity:** Cetirizine's explicit mention of allergic conjunctivitis relief in Section 4.1 provides a clearer target at these symtpoms.
+* **Prescribing Medication:** Pharmacists advising drivers or machine operators might prefer Loratadine based on Section 4.7 labelling.
+* **Label Claim Specificity:** Cetirizine's explicit mention of allergic conjunctivitis relief in Section 4.1 provides a clearer target at these symtpoms.

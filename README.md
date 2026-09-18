@@ -38,9 +38,9 @@ These regulatory analyses evaluate differences in official product information u
   * **File:** [View Summary](comparative-smpc-audits/Audit_01_Cetirizine_vs_Loratadine) 
   * **Focus:** Comparison of Section 4.1 (Indications) and Section 4.7 (Effects on Ability to Drive and use Machines).
 
-* **[Audit-02] Biologic Monoclonal Antibodies (Planned)**
-  * **File:** `comparative-smpc-audits/Audit_02_Biologics_Comparison.md`
-  * **Focus:** Analysis of Section 4.3 (Contraindications) and Section 4.8 (Undesirable Effects / Black Triangle status).
+* **[Audit-02] Beta-Blockers in Pregnancy**
+  * **File:** [View Summary](comparative-smpc-audits/Audit_02_Propranolol_vs_Labetalol.md)
+  * **Focus:** Analysis of Section 4.3 (Contraindications) and Section 4.6 (Fertility, Pregnancy and Lactation).
 
 ---
 

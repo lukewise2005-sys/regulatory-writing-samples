@@ -51,4 +51,7 @@ This regulatory audit evaluates the comparative labelling and safety precautions
 
 ---
 
-## Clinical and Regulatory Implications
+## Clinical & Regulatory Implications
+
+* **Prescribing Medication:** Pharmacists advising pregnant women or new mothers will prefer Labetalol to Propranolol based on Section 4.6 labelling. Based on Section 4.3 labelling, pharmacists may prefer to prescribe Labetalol to patients prone to hypoglycaemia and Propranolol if hepatic impairment is a concern (based on Section 4.4).
+* **Label Claim Specificity:** Labetalol features an explicit claim for hypertension in pregnancy whereas propranolol maintains general claims for managing hypertension
